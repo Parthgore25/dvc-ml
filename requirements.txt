@@ -1,0 +1,5 @@
+dvc
+dvc-azure
+pandas
+scikit-learn
+azure-storage-blob
